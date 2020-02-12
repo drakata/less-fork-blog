@@ -13,7 +13,7 @@
 
 Build a blog system like [Calpa's Blog](https://calpa.me) in ease.
 
-If you like this project, please don't hesitate to star it. Thank you.
+If you like t
 
 ## Feature
 
